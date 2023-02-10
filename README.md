@@ -7,7 +7,7 @@ Let's experiment with some Markdown syntax. **This is Bold text**. *This is ital
 
 This is a code block: 
 `function() 
-  return 0
+`  return 0
 `
 
 ### Blockquotes
