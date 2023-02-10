@@ -7,7 +7,7 @@ Let's experiment with some Markdown syntax. **This is Bold text**. *This is ital
 
 This is a code block: 
 `    function():
-`       // my function which I edited on the github website
+`      my function which I edited on the github website
 `      return 0
 
 
