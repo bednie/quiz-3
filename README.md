@@ -26,4 +26,4 @@ This commit fixes/adds:
 - the code block 
 - the blockquote tags
 - unordered lists
-    - indenting is important in Markdown
+    - indentation is important in Markdown
