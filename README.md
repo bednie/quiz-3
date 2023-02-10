@@ -6,9 +6,9 @@ This repo is for **CS 3250 Software Development Methods and Tools**.
 Let's experiment with some Markdown syntax. **This is Bold text**. *This is italic text*. 
 
 This is a code block: 
-    function():
-        // my function
-        return 0
+`    function():
+`       // my function which I edited on the github website
+`      return 0
 
 
 ### Blockquotes
